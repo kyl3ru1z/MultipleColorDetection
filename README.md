@@ -11,3 +11,6 @@ Uses OpenCV to detect multiple colors in real-time. In this program I am able to
 - Applying contours
 - Finding HSV values 
 - Putting text on a specific object
+
+# Demo
+<img src="gifs/color_detection.gif" height="400">
